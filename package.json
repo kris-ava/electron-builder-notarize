@@ -32,7 +32,7 @@
 	],
 	"dependencies": {
 		"dotenv": "^8.2.0",
-		"electron-notarize": "git://github.com/kris-ava/notarize.git",
+		"electron-notarize": "git+https://github.com/kris-ava/notarize.git",
 		"js-yaml": "^3.14.0",
 		"read-pkg-up": "^7.0.0"
 	},
